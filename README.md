@@ -1,5 +1,22 @@
 # band-maps
 
-Not sure what this is going to be exactly, but I want to create some kind of app to take a band's name and produce a map of related artists etc.
+## What is it
 
-Update: okay, I've made a start in the wikipedia-test notebook. works better with some bands than others.
+It's a project to take a band, scrape the related bands from Wikipedia, enter them into a network, then graph it.
+It's a work in progress at the moment. I might deploy it as a web app, or just create a load of graphs and make a gallery on my github.pages blog.
+
+## How have I done it
+
+Python in a jupyter notebook.
+
+## What do you need?
+
+Relevant Python libraries are:
+```
+requests
+pandas
+wikipedia
+bs4
+matplotlib
+networkx
+```
