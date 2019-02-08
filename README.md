@@ -20,6 +20,11 @@ matplotlib
 networkx
 ```
 
-## What's next?
+## Where am I at with it?
 
-It's a work in progress at the moment. I might deploy it as a web app, or just create a load of graphs and make a gallery on my github.pages blog. I'm not looking for collabs or anything, but feel free to take anything you want from it.
+I think I've basically done as much as I want to now. I've documented it on my GitHub pages blog:<br>
+<a href='https://tobyjdore.github.io/how-i-wrote-band-maps'>Project write-up</a><br>
+<a href='https://tobyjdore.github.io/band-maps'>Gallery of the maps</a><br>
+<a href='https://tobyjdore.github.io/central-bands'>Gallery of plots of betweenness centrality for the bands</a>
+
+If anyone has any feedback please let me know, and thanks for reading!
